@@ -1,0 +1,2 @@
+# beautify
+simple functional site
